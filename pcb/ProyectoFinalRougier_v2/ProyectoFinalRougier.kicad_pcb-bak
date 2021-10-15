@@ -682,7 +682,7 @@
     (descr "Terminal Block Phoenix PT-1,5-2-3.5-H, 2 pins, pitch 3.5mm, size 7x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix")
     (tags "THT Terminal Block Phoenix PT-1,5-2-3.5-H pitch 3.5mm size 7x7.6mm^2 drill 1.2mm pad 2.4mm")
     (path /614B7BA4)
-    (fp_text reference J2 (at -3.4 3.7 90) (layer F.SilkS)
+    (fp_text reference J2 (at 7 0 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Screw_Terminal_01x02 (at 1 -2.6 90) (layer F.Fab)
